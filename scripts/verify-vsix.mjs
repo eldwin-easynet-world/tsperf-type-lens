@@ -19,6 +19,7 @@ const requiredEntries = [
   "extension/package.json",
   "extension/README.md",
   "extension/LICENSE.txt",
+  "extension/docs/assets/tsperf-type-lens-architecture.png",
   "extension/dist/extension.js",
   "extension/fixtures/pathological-types.ts"
 ];
