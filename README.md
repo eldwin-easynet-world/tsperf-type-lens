@@ -32,6 +32,7 @@ npm install
 npm run check
 npm run build
 npm run package
+npm run verify:package
 ```
 
 Install the generated `.vsix` with:
@@ -49,4 +50,4 @@ This repository includes:
 - benchmark fixture under `fixtures/pathological-types.ts`
 - TypeScript build configuration
 - VSIX packaging script
-
+- package verification that rejects dependency folders, source folders, and macOS AppleDouble metadata from the generated VSIX
