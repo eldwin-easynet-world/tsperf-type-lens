@@ -1,0 +1,8 @@
+node_modules/**
+src/**
+*.tgz
+._*
+**/._*
+tsconfig.json
+.gitignore
+.DS_Store
