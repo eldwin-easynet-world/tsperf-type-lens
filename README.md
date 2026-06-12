@@ -38,7 +38,7 @@ npm run verify:package
 Install the generated `.vsix` with:
 
 ```bash
-code --install-extension tsperf-type-lens-0.1.0.vsix
+code --install-extension tsperf-type-lens-0.1.1.vsix
 ```
 
 ## Challenge Submission Evidence

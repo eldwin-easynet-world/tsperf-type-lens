@@ -2,7 +2,7 @@
   "name": "tsperf-type-lens",
   "displayName": "TSPerf Type Lens",
   "description": "Inspect TypeScript type-checker latency and structural complexity at the cursor.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "eldwin-easynet-world",
   "license": "MIT",
   "repository": {
